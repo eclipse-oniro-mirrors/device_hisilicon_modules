@@ -1,7 +1,5 @@
 #!/bin/bash
-# Copyright 2020-2020, Huawei Technologies Co. Ltd.
-#
-# ALL RIGHTS RESERVED
+# Copyright (c) 2020 Huawei Device Co., Ltd. All rights reserved.
 #
 # Compile mpp/sample project, this is the entrance script
 
